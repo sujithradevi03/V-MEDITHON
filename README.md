@@ -38,7 +38,7 @@ Run the command below to install the required dependencies for the Streamlit app
 ![image](https://github.com/user-attachments/assets/5481a8fb-4c85-4738-aac5-cac2680547b6)
 ![image](https://github.com/user-attachments/assets/8f13c44f-4ff0-439f-adf4-882943f567b4)
 ![image](https://github.com/user-attachments/assets/a88e3d92-ae09-41cf-9a26-6b6a3ad38130)
-![image](https://github.com/user-attachments/assets/1d86a7fe-d63f-4028-8e7e-2d56
+![image](https://github.com/user-attachments/assets/54e6f020-fa4e-4426-8cde-efc8af986fe6)
 
 https://github.com/user-attachments/assets/c302f361-44c3-48d8-86dc-e3eef3a97c21
 
